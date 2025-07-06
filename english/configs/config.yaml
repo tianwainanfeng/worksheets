@@ -1,0 +1,31 @@
+# config/config.yaml
+
+# ===============================
+#          Page Geometry
+# ===============================
+
+PAGE_SIZE: "letter"
+
+PAGE_WIDTH: 612.0
+PAGE_HEIGHT: 792.0
+
+TOP_MARGIN: 72.0
+BOTTOM_MARGIN: 72.0
+LEFT_MARGIN: 72.0
+RIGHT_MARGIN: 72.0
+
+# ===============================
+#          Line Style
+# ===============================
+
+LINE_OFFSETS: [0, 10, 20, 30]
+GRID_SPACE: 40
+
+LINE_COLOR:
+  red: 0.4
+  green: 0.4
+  blue: 0.4
+  alpha: 0.4
+
+LINE_DASH: [3, 2]
+
