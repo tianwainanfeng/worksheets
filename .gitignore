@@ -9,5 +9,7 @@ venv/
 # Ignore all *.pdf files
 *.pdf
 
+*/outputs/
+
 .DS_Store
 

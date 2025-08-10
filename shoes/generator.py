@@ -34,7 +34,7 @@ def process_image(img_path):
 pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
 
 # output
-pdf_path = "shoes_table.pdf"
+pdf_path = "outputs/shoes_table.pdf"
 
 # ===== Page geometry (adjust margins here) =====
 LEFT_MARGIN = 50
