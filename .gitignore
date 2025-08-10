@@ -8,3 +8,6 @@ venv/
 
 # Ignore all *.pdf files
 *.pdf
+
+.DS_Store
+
